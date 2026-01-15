@@ -6,4 +6,4 @@ This public repository contains the necessary files to onboard a customer to our
 
 Name | Description   | Auto-deploy   |
 -----| ------------- |---------------
-| Azure Lighthouse - Deploy Delegated Resource Groups |onboard a *resource group* | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/konverto-eu/securityoperations/refs/heads/main/sentinel/lighthouse/sentinel-delegated-rg.json)
+| Azure Lighthouse - Deploy Delegated Resource Groups |onboard a *resource group* | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com/konverto-eu%2Fsecurityoperations%2Frefs%2Fheads%2Fmain%2Fsentinel%2Flighthouse%2Fsentinel-delegated-rg.json)
