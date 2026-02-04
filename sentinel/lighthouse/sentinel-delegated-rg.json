@@ -46,8 +46,8 @@
                 },
                 { 
                     "principalId": "ecb179b7-90fa-4fac-9202-318346d92acf", 
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-                    "principalIdDisplayName": "KONVERTO CSP Resource Group Contributors" 
+                    "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
+                    "principalIdDisplayName": "KONVERTO CSP Resource Group Sentinel Contributors" 
                 },
                 { 
                     "principalId": "75211adf-f853-49ed-a122-20335f4ef005", 
